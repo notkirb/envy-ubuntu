@@ -7,7 +7,7 @@
 * 1 core processor from 2009 or better
 * At least 2GB of DDR3 RAM
 * 720p@60hz display or better
-* 100Mbps internet or better
+* 10Mbps internet or better
 
 ### Ubuntu Installation
 * Install Ubuntu Server 22.04 
