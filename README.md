@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-Note: Installing Ubuntu Server 22.04 required an internet connection 
+Note: Installing Ubuntu Server 22.04 and Envy Boot will require an internet connection 
 
 ### Ubuntu Installation
 * Install Bbuntu Server 22.04 
