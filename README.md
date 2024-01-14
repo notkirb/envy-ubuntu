@@ -2,8 +2,6 @@
 
 ## Getting Started
 
-This document will give you an instruction on how to setup Envy on Ubuntu Server
-
 ### Prerequisites
 
 Note: Installing Ubuntu Server 22.04 required an internet connection 
