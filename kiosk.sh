@@ -7,5 +7,5 @@ start-pulseaudio-x11
 
 while true; do
   rm -rf ~/.{config,cache}/google-chrome/
-  google-chrome --kiosk --no-first-run  '~/index.html'
+  google-chrome --kiosk --no-first-run  '~/envy/index.html'
 done
