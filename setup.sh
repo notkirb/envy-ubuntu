@@ -18,7 +18,7 @@ sudo cp grub /etc/default/grub
 sudo update-grub
 
 #Download Envy
-curl https://cdn.discordapp.com/attachments/1175399709880361132/1185309816361599039/beta2.zip?ex=65b40eca&is=65a199ca&hm=bf5b08fd37521b5662203ad20480cdb36b1595cb67288ffd8fef6920691a4b7d&
+curl -O https://cdn.discordapp.com/attachments/1175399709880361132/1185309816361599039/beta2.zip?ex=65b40eca&is=65a199ca&hm=bf5b08fd37521b5662203ad20480cdb36b1595cb67288ffd8fef6920691a4b7d&
 unzip beta2.zip/envy ~/
 
 #install kiosh service
