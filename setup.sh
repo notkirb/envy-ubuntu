@@ -30,4 +30,4 @@ sudo systemctl start kiosk.service
 
 #clean up
 cd ~
-rm -rf ~/envy-ubuntu
+sudo rm -rf ~/envy-ubuntu
