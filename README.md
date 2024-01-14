@@ -2,14 +2,24 @@
 
 ## Getting Started
 
-This document will give you an instruction on how to setup a chrome kiosk ubuntu
+This document will give you an instruction on how to setup Envy on Ubuntu Server
 
 ### Prerequisites
 
-Make sure you have installed the following prerequisites
-
 Note: Installing Ubuntu Server 22.04 required an internet connection 
-for you to able to install a required package, create an "envy" user
+
+### Installation
+install ubuntu server 22.04 
+choose full install
+user: envy
+password: envy
+hostname: envy
+install openssh server
+````
+git clone https://github.com/notkirb/envy-ubuntu
+cd envy-ubuntu
+sudo sh setup.sh
+````
 
 ## Authors
 
