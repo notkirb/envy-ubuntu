@@ -13,9 +13,11 @@ Note: Installing Ubuntu Server 22.04 required an internet connection
 * Choose full install when prompted
 * Use the following settings:
 ````
+name: envy
+hostname: envy
 user: envy
 password: envy
-hostname: envy
+confirm password: envy
 ````
 * Install openssh server when prompted
 ### Envy Installation
