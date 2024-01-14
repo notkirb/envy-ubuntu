@@ -8,21 +8,24 @@ This document will give you an instruction on how to setup Envy on Ubuntu Server
 
 Note: Installing Ubuntu Server 22.04 required an internet connection 
 
-### Installation
-* install ubuntu server 22.04 
-* choose full install
+### Ubuntu Installation
+* Install Bbuntu Server 22.04 
+* Choose full install when prompted
+* Use the following settings:
 ````
 user: envy
 password: envy
 hostname: envy
 ````
-* install openssh server
+* Install openssh server when prompted
+### Envy Installation
+* Type the following into the CLI:
 ````
 git clone https://github.com/notkirb/envy-ubuntu
 cd envy-ubuntu
 sudo sh setup.sh
 ````
-
+* If everything went without errors, your PC will now restart and boot directly into Envy 7 beta 2!
 ## Authors
 
 * **WLABESAMIS** - (https://github.com/wlabesamis)
