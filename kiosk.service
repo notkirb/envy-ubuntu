@@ -3,8 +3,8 @@ Description=Kiosk Launcher
 After=systemd-user-sessions.service
 
 [Service]
-User=kiosk
-ExecStart=/usr/bin/startx /opt/kiosk.sh -- :1 vt1
+User=envy
+ExecStart=/usr/bin/startx /opt/kiosk.sh -- :1 vt7
 Restart=always
 
 [Install]
