@@ -9,22 +9,12 @@ This document will give you an instruction on how to setup a chrome kiosk ubuntu
 Make sure you have installed the following prerequisites
 
 Note: Installing Ubuntu Server 22.04 required an internet connection 
-for you to able to install a required package, create an "envy" user, this user will
-be use in the setup later
-
-* Ubuntu Server 18.04 - [Download](https://ubuntu.com/download/server/thank-you?version=18.04.4&architecture=amd64)
-* Setup for Ubuntu Server - [Video](https://www.youtube.com/watch?v=XXsrECecr5M)
-
-
-### Video Tutorial
-https://youtu.be/cLiX62QhB9U
-
+for you to able to install a required package, create an "envy" user
 
 ## Authors
 
 * **WLABESAMIS** - (https://github.com/wlabesamis)
-
-
+* **notkirb_** - (https://github.com/notkirb)
 ## Acknowledgments
 
 * Thank you to THEPCSPY
