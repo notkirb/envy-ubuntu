@@ -1,6 +1,4 @@
-# Ubuntu Server 18.04 Kiosk Chrome
-
- 
+# Envy Boot for Ubuntu Server
 
 ## Getting Started
 
