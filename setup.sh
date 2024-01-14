@@ -28,4 +28,7 @@ sudo systemctl start kiosk.service
 cd ..
 sudo rm -rf envy-ubuntu
 
+#reboot system
+echo Rebooting in 3 sec...
+sleep 3
 sudo reboot
