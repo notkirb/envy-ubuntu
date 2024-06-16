@@ -24,7 +24,7 @@ confirm password: envy
 ### Envy Installation
 * Type the following into the CLI:
 ````
-git clone https://github.com/notkirb/envy-ubuntu
+git clone https://github.com/envyjs/envyboot
 cd envy-ubuntu
 sudo sh setup.sh
 ````
